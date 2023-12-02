@@ -8,3 +8,6 @@ also if you're wondering why i have so many `as`-es:
 
 - a) im bad a ts
 - b) ts has no idea about input data
+
+# todo
+- add tests with sample data
