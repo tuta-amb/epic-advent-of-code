@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "stdin": "https://deno.land/x/get_stdin/mod.ts"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "version": "3",
+  "redirects": {
+    "https://deno.land/x/get_stdin/mod.ts": "https://deno.land/x/get_stdin@v1.1.0/mod.ts"
+  },
+  "remote": {
+    "https://deno.land/x/get_stdin@v1.1.0/mod.ts": "c5a01c443eea377aef410638a176a31641caed4ae6ad315136dc794000155c27"
+  }
+}
