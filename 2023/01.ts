@@ -15,7 +15,6 @@ const numbers = {
   nine: 9,
 };
 
-// Convert each line to digits
 const answer = input
   .split("\n")
   .map(line =>
@@ -24,7 +23,7 @@ const answer = input
       // Sometimes, we have "oneight", and this should become "18"
       // Therefore, we must have name+number+name to match the "eight" and other possiblities
       (reducer, [name, number]) =>
-           reducer.replaceAll(name, `${name}${number}${name}`),
+        reducer.replaceAll(name, `${name}${number}${name}`),
       line
     )
   )
