@@ -10,4 +10,18 @@ also if you're wondering why i have so many `as`-es:
 - b) ts has no idea about input data
 
 # todo
-- add tests with sample data
+- add tests with sample data | done
+
+# running
+you can run them like this:
+```bash
+> cat input.txt | deno run 2023/01.ts
+...answer...
+```
+or use the tester with built in data
+```bash
+> deno run 2023/XX
+...runs all in 2023...
+> deno run 2023/01 2023/02
+...runs 2023/01.ts and 2023/02.ts...
+```
