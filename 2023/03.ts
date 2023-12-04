@@ -143,7 +143,6 @@ const part2 = parsed
             )
           ) || blank
         );
-        console.log("line", y, "checking", [offsetY, offsetX]);
       });
 
       if (neighborNumbers.size < 2) return sum;
