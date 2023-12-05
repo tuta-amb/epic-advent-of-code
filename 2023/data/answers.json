@@ -5,5 +5,6 @@
     "^^ this was the first answer but i don't have the code for it so it makes the test runner fail"
   ],
   "02": ["2061", "72596"],
-  "03": ["525119", "76504829"]
+  "03": ["525119", "76504829"],
+  "04": ["15205", "6189740"]
 }

@@ -25,3 +25,6 @@ or use the tester with built in data
 > deno run 2023/01 2023/02
 ...runs 2023/01.ts and 2023/02.ts...
 ```
+
+# notes
+- 2023/04 part 2 doesn't work, prob won't fix idk
